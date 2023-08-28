@@ -1,0 +1,9 @@
+1) Set desired WORKDIR in script.sh
+2) Run script in Ubuntu using
+```
+sudo ./script.sh
+```
+
+NOTE: The board should be in recovery mode and connected to the host PC for the purpose of this test.
+
+Steps in these script were automated based on the instructions available at https://docs.nvidia.com/jetson/archives/r35.3.1/DeveloperGuide/text/SD/SoftwarePackagesAndTheUpdateMechanism.html#preparing-for-an-image-based-ota-update
